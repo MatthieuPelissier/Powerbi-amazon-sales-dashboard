@@ -62,7 +62,7 @@ Les données ont été nettoyées et transformées dans Power Query :
 
 ## Aperçu du dashboard
 
-![Aperçu du dashboard](Sales_amazon.png)
+![Aperçu du dashboard](Sales_amazon.PNG)
 
 ---
 
